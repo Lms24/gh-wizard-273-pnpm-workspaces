@@ -1,0 +1,1 @@
+export const foo = 'hi from some-lib'
